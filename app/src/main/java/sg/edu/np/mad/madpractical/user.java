@@ -2,6 +2,9 @@ package sg.edu.np.mad.madpractical;
 
 public class user {
 
+    public user(boolean b) {
+    }
+
     public String getName() {
         return name;
     }
@@ -38,7 +41,7 @@ public class user {
     private String description;
     private int id;
 
-    public void User(boolean followed) {
+    public void user(boolean followed) {
         this.followed = followed;
     }
 
