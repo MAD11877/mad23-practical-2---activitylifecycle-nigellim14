@@ -14,7 +14,6 @@
         tools:context=".MainActivity">
 
 
-
         <ImageView
             android:id="@+id/circlebackgroundimage"
             android:src="@drawable/ic_launcher_background"

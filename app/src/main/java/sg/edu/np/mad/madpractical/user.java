@@ -43,7 +43,6 @@ public class user {
     }
 
     private boolean followed;
-
 }
 
 
