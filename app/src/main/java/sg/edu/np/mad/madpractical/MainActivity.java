@@ -20,10 +20,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String text = followbtn.getText().toString();
-                if (text == "Follow") {
-                    followbtn.setText("Unfollow");
+                if (text == "FOLLOW") {
+                    followbtn.setText("UNFOLLOW");
                 } else {
-                    followbtn.setText("Follow");
+                    followbtn.setText("FOLLOW");
                 }
             }
         });
