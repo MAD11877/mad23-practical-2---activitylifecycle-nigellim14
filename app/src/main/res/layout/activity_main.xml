@@ -13,7 +13,6 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
-
         <ImageView
             android:id="@+id/circlebackgroundimage"
             android:src="@drawable/ic_launcher_background"
